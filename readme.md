@@ -5,5 +5,5 @@ Welcome to my personal portfolio! This contains my resume / some selected person
 This site uses Bootstrap.
 
 Contact Me: 
-mohitlodhi,857@gmail.com
+mohitlodhi.857@gmail.com
 9997444338
